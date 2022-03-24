@@ -3,6 +3,6 @@ Lab Projects &amp; Theoretical Problems of the Robotics II course held by ECE - 
 
 # Lab Project
 
-**1st Lab Exercise**: Kinematic Control of Redundant Robot Manipulator: Path Following and Obstacle Avoidance
+**1st Lab Exercise**: Kinematic Control of Redundant Robot Manipulator: Path Following and Obstacle Avoidance \\
 **2nd Lab Exercise**: Mobile Robots: Wall Following
 
